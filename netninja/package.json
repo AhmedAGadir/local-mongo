@@ -1,0 +1,15 @@
+{
+  "name": "local-mongo",
+  "version": "1.0.0",
+  "description": "// download mongodb locally  https://www.mongodb.com/try/download/community https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^8.2.1",
+    "mongoose": "^5.10.15"
+  }
+}
