@@ -43,7 +43,7 @@ to show collections:
 
 `$ show collections`
 
-to insert a record: 
+to insert a document/record: 
 
 `$ db.posts.insert({
     title: 'Post One',
